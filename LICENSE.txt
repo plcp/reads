@@ -1,0 +1,4 @@
+Note that this repository contains several files that belongs to their
+respective authors. If you are one of these authors and you find that your work
+does not belong here, please contact me and I will remove the reported files
+from the repository.
