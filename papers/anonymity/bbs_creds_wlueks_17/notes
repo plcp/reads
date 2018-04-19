@@ -1,0 +1,9 @@
+p28 - 2.7.1
+
+    The "e" term within the exponent is here to prevent combination of
+    signatures (as the exponent used will be randomized and thus you won't
+    be able to "merge" things).
+
+    As "e" remains hidden, we need to prove that we know it. We do that with
+    by proving that "1 = (g1)^(e*r1) * (g2)^(e*r2) * (C2)^(-e)" (where 1 is the
+    implicit value we commit to).
